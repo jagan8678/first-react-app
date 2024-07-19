@@ -1,0 +1,66 @@
+{"vehicles":[
+        {
+            "id":1,
+            "image":"https://images.pexels.com/photos/2882234/pexels-photo-2882234.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Toyota Corolla",
+            "price":20000,
+            "mileage":15000,
+            "color":"White",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable family car"
+    
+        },
+        {
+            "id":2,
+            "image":"https://images.pexels.com/photos/3422964/pexels-photo-3422964.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Hyundai",
+            "price":23000,
+            "mileage":19000,
+            "color":"Black",
+            "seats":4,
+            "fuel":"Petrol",
+            "gear":"manual",
+            "description":"Stylish family car"
+        },
+        {
+            "id":3,
+            "image":"https://images.pexels.com/photos/164654/pexels-photo-164654.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"kia",
+            "price":23000,
+            "mileage":14000,
+            "color":"Red",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"Kia has been regarded as a maker of dependable utility vehicles"
+        },
+        {
+            "id":4,
+            "image":"https://images.pexels.com/photos/1015555/pexels-photo-1015555.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Mahindra",
+            "price":28000,
+            "mileage":13000,
+            "color":"orange",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Manual",
+            "description":"Mahindra has been regarded as a maker of dependable utility vehicles."
+
+        },
+        {
+            "id":5,
+            "image":"https://images.pexels.com/photos/1015555/pexels-photo-1015555.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"benz",
+            "price":269000,
+            "mileage":134000,
+            "color":"yellow",
+            "seats":7,
+            "fuel":"diseal",
+            "gear":"auto",
+            "description":"The Mercedes-Benz name is a combination of two names: Mercedes Jellinek and Karl Benz."
+
+        }
+    ]
+}
