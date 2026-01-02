@@ -5,7 +5,7 @@ function Homecomponent() {
   return (
     <>
       <h1 style={{
-        fontSize: '32px',
+        fontSize: '34px',
         color: 'chocolate',
         backgroundColor: 'pink',
         padding: '10px',
