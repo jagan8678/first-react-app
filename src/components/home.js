@@ -12,7 +12,7 @@ function Home() {
         border: '5px solid yellow',
         textAlign: 'center',
         borderRadius: '50%'
-      }}>Home Page</h1>
+      }}>Home Page Component </h1>
 
       <div id="carouselExampleFade" className="carousel slide carousel-fade">
         <div className="carousel-inner">
